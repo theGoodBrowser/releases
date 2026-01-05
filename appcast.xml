@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>theBrowser Updates</title>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.3</title>
+      <description><![CDATA[
+        <h2>theBrowser 0.1.3</h2>
+        <ul>
+<li>implement /open and /clean commands with loading transition</li>
+<li>feat: implement Option+Click web capture system</li>
+<li>implement /do command with action notes and backend integration</li>
+<li>fix: update OAuth URL scheme from ora:// to thebrowser://</li>
+<li>improve notes experience with performance and micro-interactions</li>
+<li>Add note menu with export and delete options, increase block height</li>
+<li>implement talk to video support</li>
+<li>Add toggle lists for AI responses with animations</li>
+<li>minor edits to the notes ai</li>
+<li>Add Talk to AI button with tab mentions and full page context</li>
+<li>Add AI writing assistant to notes editor</li>
+<li>Add Notion-style slash menu and WYSIWYG notes editor</li>
+<li>improve split view constraints and sidebar behavior</li>
+<li>implemented split screen tabs</li>
+<li>Fix Notes button color to match sidebar UI</li>
+<li>fix unreliable bookmark section drop detection</li>
+<li>fix swiftlint identifier name violations</li>
+<li>animate picker to preset color on selection</li>
+<li>added custom theme color picker.</li>
+<li>Add CLAUDE.md with project structure and vision</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 06 Jan 2026 01:27:14 +0530</pubDate>
+      <enclosure
+        url="https://github.com/thegoodbrowser/releases/releases/download/v0.1.3/theBrowser-0.1.3.dmg"
+        sparkle:version="101"
+        sparkle:shortVersionString="0.1.3"
+        length="10782740"
+        type="application/octet-stream"
+        sparkle:edSignature="g+o/C8Kqms6e5c+BcEmonX6LnO3zOKlLuXPZ08VcFXtt003Q78dhbDGnL6SGkii0TdwH1BsNiOXbSt7V+TisCQ=="
+      />
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
